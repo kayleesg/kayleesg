@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayleesg
-- 👀 I’m interested in cumputer security.
+- 👀 I’m interested in computer security.
 - 🌱 I’m currently learning Python and Web Development.
 
 <!---
