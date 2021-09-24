@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer security.
 - 🌱 I’m currently learning Python and Web Development.
 
-<!---
-kayleesg/kayleesg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/kayleesg">
+    <img width="55%" align="right" alt="Kaylee's github stats" src="https://github-readme-stats.vercel.app/api?username=kayleesg&count_private=true&theme=buefy&show_icons=true&hide_border=true" />
+  </a>
