@@ -7,8 +7,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kaylee-schneegass-cyber)
-[![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://jiams.medium.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaylee-schneegass-cyber)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kayleesg5)
 
 </div>
@@ -16,6 +15,8 @@
 <h3 align="center">📚 Cybersecurity student and Rising Java Developer ​👨‍💻​ </h3>
 
 <p>
+  <br />
+  <br />
   <code><a href="https://www.python.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <br />
   <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
