@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hey! My name is Kaylee. 😄 </h1>
-<a href="https://kayleesg.tech"><p align="center"> Feel free to checkout my full resume.</p></a>
+<a href="https://kayleesg.tech"><p align="center"> Feel free to checkout my resume website.</p></a>
 
 <div align="center">
 
