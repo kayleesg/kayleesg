@@ -16,22 +16,7 @@
 🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>
 🧮 I'm also participating in National Cyber League Fall 2022 Individual and Team Games. <br/>
   </div>
-<br/> 
-
-<!--<h3 align="center"> Project Demos </h3>
-<div align="center">
-  <a href="https://youtu.be/dPf9qrEST_w">Flat News | </a> 
-  <a href="https://youtu.be/MXSXUCAqZrQ">The Flatiron Experience Board Game | </a> 
-  <a href="https://youtu.be/2pqRaRD6gM8">Pet Date</a> 
-</div>
-<h3 align="center"> Udemy Course Projects </h3>
-<p align="center">Deployed through AWS Amplify!</p>
-<div align="center">
-  <a href="https://master.dxap86r25zjey.amplifyapp.com">Natours - Intro to Sass  |  </a>
-  <a href="https://master.dxaildfbk8a8x.amplifyapp.com">Trillo - Intro to Flexbox  |  </a>
-  <a href="https://master.d2c273vgjytxlv.amplifyapp.com/">Nexter - Intro to CSS Grid </a>
-</div>-->
-
+<br/>
 
 <br/>
 <p align="center"> 💬 Feel free to ask me about anything! 🙋 <p>
@@ -40,6 +25,10 @@
 <br/>
 <p align="center"> ⚡ <b>Fun Fact</b> 🌟 <br/>I was in the Army for 6 years working on Satellite Antennas <br/></p>
 
+  
+  
+<!--Project Template I used -->
+  
 <!--<h1 align="center"> 👋 Hey! My name is Michael. 😄 </h1>
 <a href="https://gist.github.com/jiangmichael1/d199dd3aaa99e872f340c8cb2344b26d"><p align="center"> Feel free to checkout my full GitHub resume.</p></a>
 
