@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @kayleesg
-- 👀 I’m interested in computer security.
-- 🌱 I’m currently learning C and Java.
-
 <h1 align="center"> 👋 Hey! My name is Kaylee. 😄 </h1>
 <a href="https://kayleesg.tech"><p align="center"> Feel free to checkout my full resume.</p></a>
 
@@ -14,19 +10,21 @@
 
 <h3 align="center">📚 Cybersecurity student and Rising Java Developer ​👨‍💻​ </h3>
 
-<p>
+<!--<p>
   <br />
   <br />
   <code><a href="https://www.python.org/"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <br />
   <code><a href="https://visualstudio.microsoft.com/"><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-</p>
+</p>-->
 <br />
 <br />
+<div align="center">
 💻 I’m in a transition period where I am focusing on school and will update with new projects!<br/>
 <br/>
 🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>
 🧮 I'm also participating in National Cyber League Fall 2022 Individual and Team Games. <br/>
+  </div>
 <br/> 
 
 <!--<h3 align="center"> Project Demos </h3>
