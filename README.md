@@ -5,15 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaylee-schneegass-cyber)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kayleesg5)
 
-<h3 align="center">📚 Cybersecurity student and Rising Java Developer ​👨‍💻​ </h3>
+<h3 align="center">📚 Cybersecurity Professional ​👨‍💻​ </h3>
 
 <br />
 <br />
 <div align="center">
-💻 I’m in a transition period where I am focusing on school and will update with new projects!<br/>
+<!--💻 I’m in a transition period where I am focusing on school and will update with new projects!<br/>
 <br/>
-🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>
-🧮 I'm also participating in National Cyber League Fall 2022 Individual and Team Games. <br/>
+🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>--!>>
   </div>
 <br/>
 
