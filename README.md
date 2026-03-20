@@ -12,7 +12,7 @@
 <div align="center">
 <!--💻 I’m in a transition period where I am focusing on school and will update with new projects!<br/>
 <br/>
-🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>--!>>
+🌱 I’m currently studying AWS, Java Data Structures, and C programming in addition to other University courses. <br/>--!>
   </div>
 <br/>
 
